@@ -1,0 +1,6 @@
+Public IP Address: 106.51.27.15
+Processor: Intel64 Family 6 Model 141 Stepping 1, GenuineIntel
+System: Windows 10.0.19044
+Machine: AMD64
+Hostname: MSI-SHASH
+Private IP Address: 172.29.160.1
