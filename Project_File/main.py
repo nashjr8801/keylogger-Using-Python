@@ -48,9 +48,9 @@ keys_information = "key_log.txt"
 file_path = "D:\\python\\Keylogger\\keylogger\\Project_File"
 extend = "\\"
 
-email_address = "shashank8801@gmail.com"
-password = "bufgcwteedaxczdq"
-toaddr = "shashank8801@gmail.com"
+email_address = "email@email.com"
+password = "password"
+toaddr = "email@email.com"
 
 # keylogging finctionality
 count = 0
